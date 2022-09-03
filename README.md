@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mariyam-190
 - 🌱 CS Gradute
-- 👀 I’m interested in Back-End Web development , Artificial Intelligence, especially robotics and expert systems
-- 🌱 I’m currently learning Laravel
+- 👀 I’m interested in Web development , Artificial Intelligence, especially robotics and expert systems
+- 🌱 I’m currently learning Vue.js and  Laravel
 - 📫 Visit my Portfolio : https://y-m.000webhostapp.com/
 
 <!---
