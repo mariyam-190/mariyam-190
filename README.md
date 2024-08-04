@@ -2,7 +2,7 @@
 - 🌱 CS Gradute
 - 👀 I’m interested in Web development , Artificial Intelligence, especially robotics and expert systems
 - 🌱 I’m currently learning Vue.js and  Laravel
-- 📫 Visit my Portfolio : https://mariyama.tech/
+- 📫 Visit my Portfolio : https://mariyam-190.github.io/pink-portfolio/
 
 <!---
 mariyam-190/mariyam-190 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
